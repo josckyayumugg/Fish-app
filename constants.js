@@ -1,0 +1,17 @@
+export const GlobalStyles = {
+  Primary_yellow: "#F2CC5B",
+  Primary_yellow2: "#ebd593",
+  Secondary_yellow: "#ece2c3",
+  Secondary_black: "#000",
+  Secondary_orange: "#f3611379",
+  Tertiary_orange: "#F36113",
+  Primary_grey: "#7A7A7A",
+  Tertiary_grey: "#e7e2e239",
+  quaternary_grey: "#534d4aec",
+  Secondary_grey: "#d4d1d1",
+  Primary_blue: "#0E87CC",
+  Seconndary_blue: "#c6e2f2",
+  Secondary_green: "#13a337",
+  Secondary_green2: "#116325",
+  Tertiary_green: "#c3e0ca",
+};
